@@ -1,6 +1,6 @@
 # 24 points solver
 
-## Recently my friend often turns to me for solving classical 24 points game solutions, and hence I'm inspired to develop a 24 points solver here to help all those guys who are suffering wondering if there really are solutions for the tricky numbers they get.
+## Recently my friend has often turned to me for help solving classical 24-points game problems, which inspired me to develop a 24-points solver here to help everyone who's ever struggled to figure out if there's really a solution for the tricky numbers they get.
 
 ## Usage:
 
